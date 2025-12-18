@@ -1,0 +1,22 @@
+--extra-index-url https://download.pytorch.org/whl/cu129
+
+# Jupyter & Notebook Support
+ipykernel==7.0.0
+ipython==9.6.0
+ipywidgets==8.1.7
+
+# Core & Utilities
+numpy==2.2.6
+PyYAML==6.0.3
+tqdm==4.65.2
+
+# Image Processing & Visualization
+matplotlib==3.10.7
+opencv-python==4.12.0.88
+pillow==11.3.0
+tifffile==2025.10.16
+
+# Deep Learning & Computer Vision
+torch==2.8.0+cu129
+torchvision==0.23.0+cu129
+ultralytics==8.3.214
